@@ -1,0 +1,14 @@
+server:
+  port: 10001
+spring:
+  application:
+    name: dsj_gw_1
+  swagger:
+    base-package: com.gw.dsj1.controller
+    api-info:
+      title: dsj_gw_1
+      description: dsj_gw_1 基于spring boot
+      contact: gw
+      version: 1.0.1
+      url: www.baidu.com
+      email:
