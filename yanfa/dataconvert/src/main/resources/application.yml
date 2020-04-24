@@ -1,0 +1,14 @@
+server:
+  port: 10001
+spring:
+  application:
+    name: com_wuhandata_dataconvert
+  swagger:
+    base-package: com.wuhandata.dataconvert
+    api-info:
+      title: data convert
+      description: 基于spring boot
+      contact: cx
+      version: 1.0.1
+      url: www.baidu.com
+      email:
